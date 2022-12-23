@@ -1,0 +1,31 @@
+body{
+    
+    font-family: 'Rubik';
+    background-color: #000000;
+  }
+  h1 {
+      color: rgb(255, 255, 255);
+      font-size: 80px;
+    }
+  h2 {
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+     }
+  p {
+    color: rgb(255, 255, 255);
+    font-size: 15pt;
+    }
+  button {
+    width: 90px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    border-radius: 9px;
+    box-shadow: 0 2px 10px -5px rgb(255, 255, 255);
+    }
+    button:hover {
+    box-shadow: 0 3px 10px -1px rgb(255, 255, 255);
+    }
+    audio{
+      border-radius: 14px;
+    }

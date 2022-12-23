@@ -1,0 +1,52 @@
+body{
+    
+    font-family: 'Rubik';
+    background-color: #000000;
+  }
+  h1 {
+      color: rgb(255, 255, 255);
+      font-size: 80px;
+    }
+  h2 {
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+     }
+  p {
+    color: rgb(255, 255, 255);
+    font-size: 15pt;
+    }
+  button {
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-color: black;
+    }
+    button:hover {
+      box-shadow: 0 20px 10px -5px rgba(0, 0, 0, 0.5);
+    }
+    div{
+        width: auto;
+        height: auto;
+        text-align: center;
+        word-wrap: break-word;
+        border-style: solid;
+    }
+    audio{
+      border-radius: 14px;
+    }
+    img{
+      width: 190px;
+      height: 120px;
+      border-radius: 14px;
+    }
+    #mozart{
+      width: 200px;
+      height: 200px;
+      border-radius: 14px;
+      background-color: white;
+      box-shadow: 0 0px 10px 1px rgb(255, 255, 255);
+      border-color: white;
+    }
+    #mozart:hover{
+      box-shadow: 0 3px 10px 3px rgb(255, 255, 255);
+    }
